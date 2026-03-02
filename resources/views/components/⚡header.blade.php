@@ -98,7 +98,7 @@ new class extends Component {
             <!-- Title + Name -->
             <div class="flex flex-col leading-tight">
                 <h1 class="text-lg font-semibold">
-                    {{ $title ?? 'Dashboard' }} - {{ AuthStorage::get('auth_token') }}
+                    {{ $title ?? 'Dashboard' }} {{-- - {{ AuthStorage::get('auth_token') }} --}}
                 </h1>
                 <p class="text-xs opacity-90">
                     {{ $name ?? 'Teacher' }}
