@@ -175,7 +175,7 @@ new class extends Component {
                     <path stroke-linecap="round" stroke-linejoin="round"
                         d="M12 8v5l3 3M12 3a9 9 0 100 18 9 9 0 000-18z" />
                 </svg>
-                <span class="text-xs">History </span>
+                <span class="text-xs">History</span>
             </button>
 
             <button class="flex flex-col items-center gap-1 text-gray-500 hover:text-indigo-600">
