@@ -21,7 +21,7 @@
     </style>
 </head>
 
-<body>
+<body class="nativephp-safe-area">
 
     <!-- Network Status Banner -->
     {{-- <div id="network-banner" class="hidden px-4 py-2 text-sm text-center font-medium text-white"></div> --}}
